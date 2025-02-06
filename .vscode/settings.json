@@ -40,6 +40,7 @@
         "*.sqlbook": "sql",
         "*.ndjson": "jsonl",
         "*.dbclient-js": "javascript",
-        "bootrom.h": "c"
+        "bootrom.h": "c",
+        "pio_matrix.pio.h": "c"
     }
 }
